@@ -783,7 +783,7 @@ onUnmounted(() => {
         class="select-none"
         draggable="false"
         style="height: 100vh; max-height: 100vh; width: auto; object-fit: cover"
-        onerror="/assets/console/default/bezels/gb.png"
+        onerror="/assets/console/default/bezels/blank.png"
       />
     </div>
     <div
